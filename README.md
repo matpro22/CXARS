@@ -1,7 +1,7 @@
 # CXARS
 <h1>CXARS can help you live a better life.</h1><br>
 
-<code style="color : red">Today if you're reading this, you're probably lost.</code>
+$\Huge \color{red}{\textbf{!! Today if you're reading this, you're probably lost. !!}}$
 
 <br>
 <h2>C'est un projet APPi pour simplifier pleins de chose, cela aura pour bute de réunire toute les apllication demander dans une entreprise en une chose ( comme nextCloud )</h2>
