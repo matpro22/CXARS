@@ -1,5 +1,6 @@
 # CXARS
-<h1>CXARS can help you live a better life.</h1><br>$${\color{red}}$$
+<h1>CXARS can help you live a better life.</h1><br>
+
 <code style="color : red">Today if you're reading this, you're probably lost.</code>
 
 <br>
