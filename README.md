@@ -1,6 +1,6 @@
 # CXARS
 <h1>CXARS can help you live a better life.</h1><br>
-<h1 class="red">Today if you're reading this, you're probably lost.</h1>
+<h1 style="color:blue">Today if you're reading this, you're probably lost.</h1>
 
 <br>
 <h2>C'est un projet APPi pour simplifier pleins de chose, cela aura pour bute de réunire toute les apllication demander dans une entreprise en une chose ( comme nextCloud )</h2>
@@ -16,10 +16,3 @@
 
 <li>Avoir sur un réseaux un serveur avec un OS spesifique qui pour gérée le réseux et pouvoir fair une désante de master ultra simlple.</li>
 <li>Intégration sur windows( Utiliser n'importe qu'elle logiciel sans forcément se conecter )</li>
-
-<style>
-.red{
-  color: red;
-}
-  
-</style>
