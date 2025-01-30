@@ -26,3 +26,8 @@ $\Huge \color{red}{\textbf{!! Today if you're reading this, you're probably lost
 <li>Wifi intéligent, decouverte de zone blanche et importation en ticket</li>
 <li>AutoResolver avce IA, Chatte personelle qui peut réglé des problem avec des archive deja connue</li>
 <li>eeetttccc</li>
+
+<br>
+<h2>Les Langage utiliser de base :</h2>
+<br>
+
