@@ -30,4 +30,4 @@ $\Huge \color{red}{\textbf{!! Today if you're reading this, you're probably lost
 <br>
 <h2>Les Langage utiliser de base :</h2>
 <br>
-
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
